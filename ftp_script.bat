@@ -1,0 +1,1 @@
+ftp -n -s:queries.txt
